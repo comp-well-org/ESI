@@ -2,6 +2,16 @@
 
 This repository contains the implementation of the pretraining phase for the paper "ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text".
 
+https://openreview.net/forum?id=giEbq8Khcf
+
+@Article{yu2024ecg,
+  title={ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text},
+  author={Yu, Han and Guo, Peikun and Sano, Akane},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2024}
+}
+
+
 ## Overview
 
 ESI is a novel approach to improve electrocardiogram (ECG) analysis using deep learning techniques. It consists of two main components:
