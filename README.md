@@ -52,6 +52,10 @@ To train the ESI model:
 python main.py --meta_path /path/to/meta_data.csv --file_path /path/to/ecg/files --batch_size 48 --epochs 50 --signal_encoder convnextv2_base --text_encoder michiyasunaga/BioLinkBERT-base
 ```
 
+## Model Weights
+
+The model weight is available at: https://drive.google.com/drive/folders/1hUpfr0TNe2WoQC3Vi6l7ofDJe5CMjUqu?usp=sharing
+
 ## Configuration
 
 The `main.py` script accepts various command-line arguments to customize the training process. Some key parameters include:
