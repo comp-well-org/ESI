@@ -4,6 +4,7 @@ This repository contains the implementation of the pretraining phase for the pap
 
 https://openreview.net/forum?id=giEbq8Khcf
 
+```
 @Article{yu2024ecg,
 
   title={ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text},
@@ -15,7 +16,7 @@ https://openreview.net/forum?id=giEbq8Khcf
   year={2024}
 
 }
-
+```
 
 ## Overview
 
