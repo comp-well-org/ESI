@@ -98,4 +98,4 @@ This code is adapted from [COCA-pytorch](https://github.com/lucidrains/coca-pyto
 The evaluation for arrhythmia diagnosis uses codes at [PTB-XL Benchmarking](https://github.com/helme/ecg_ptbxl_benchmarking).
 
 ## License
-ESI is released under the GPL 3.0. See LICENSE for details.
+ESI is released under the GPL 3.0. See [LICENSE](https://github.com/comp-well-org/ESI/blob/main/LICENSE.txt) for details.
